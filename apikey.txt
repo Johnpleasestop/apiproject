@@ -1,0 +1,3 @@
+delete all of this and paste your api key in here.
+this is an API chatbot built to optimally source PC components based on the store's stocklist and the customer's budget/needs (the spreadsheet). 
+Token compression and simple GUI to make LARPing as a Microcenter employee quick and easy. 

@@ -85,7 +85,7 @@ pip install google-generativeai
 
 - `buddyarchive.db` is created automatically on first launch and persists across sessions
 - Resetting the chat clears the UI but keeps all messages in the database
-- Conversation history is trimmed every 5 turns to reduce token usage — only the most recent exchanges are sent to the API
+- Conversation history is trimmed every 5 turns to reduce token usage (only the most recent exchanges are sent to the API)
 - The **Copy Parts List** button works best when the AI has just provided a full build recommendation
 
 ---

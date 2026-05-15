@@ -1,7 +1,4 @@
 """
-—----> Hogan Polston, Emmanuel Aroh, John Mitchell
-
-
 PC Builder Conversational AI - Tkinter GUI with Chat Interface
 Updated with Smart Copy and Full Chat Export features.
 Now with SQLite3 database storage.
